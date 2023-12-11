@@ -1,0 +1,5 @@
+<map id="Trainer.h" name="Trainer.h">
+<area shape="rect" id="node1" title="Declares Trainer class." alt="" coords="109,5,187,32"/>
+<area shape="rect" id="node2" href="$SvCompDense_8cpp.html" title="Executes a single training run with a simple autoencoder to compress and decompress vectors." alt="" coords="5,80,149,107"/>
+<area shape="rect" id="node3" href="$Trainer_8cpp.html" title="Defines Trainer class." alt="" coords="174,80,266,107"/>
+</map>
