@@ -1,0 +1,11 @@
+.project
+.cproject
+Debug
+Release
+.settings
+
+html/
+latex/
+/Release Single/
+*.o
+SvComp
